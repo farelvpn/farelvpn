@@ -4,6 +4,8 @@
 
 <p align="left">Hello, my name is Farell and I am a student at SMK Tamtama Karanganyar</p>
 
+![Teks Alternatif](Eula.jpg)
+
 ###
 
 <h2 align="left">Tech</h2>
